@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Project realized for the Database Design class,
+Project I made for the Database Design class,
 Computer Engineering @ UNIPI, 2015-2016.
 
 ## Documentation:
